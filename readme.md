@@ -109,7 +109,7 @@ For allowing anonymous push you have to modify global settings.
 * Check the value **Allow push for anonymous repositories**
 * Save changes.
 
-#### I'd like to use git hooks to restrict access. How do I access the web frontend usernam?
+#### I'd like to use git hooks to restrict access. How do I access the web frontend username?
 
 Bonobo provides the following environment variables:
 
